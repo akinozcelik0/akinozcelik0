@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akin</h1>
+<h1 align="center">Hi 👋, I'm Akın</h1>
 <h3 align="center">Hi, my name is Akın. I'm currently training to become a software developer. I'm still learning different tools and trying to share my experience here on GitHub. Thanks!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akinozcelik0&label=Profile%20views&color=0e75b6&style=flat" alt="akinozcelik0" /> </p>
