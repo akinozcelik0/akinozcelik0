@@ -3,11 +3,11 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akinozcelik0" alt="akinozcelik0" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akinozcelik0" alt="akinozcelik0" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akinozcelik0a" target="blank"><img src="https://img.shields.io/twitter/follow/akinozcelik0a?logo=twitter&style=for-the-badge" alt="akinozcelik0a" /></a> </p>
+<p align="center"> <a href="https://twitter.com/akinozcelik0a" target="blank"><img src="https://img.shields.io/twitter/follow/akinozcelik0a?logo=twitter&style=for-the-badge" alt="akinozcelik0a" /></a> </p>
 
-- 📫 How to reach me **akinozcelik0@gmail.com**
+<p align="center"> 📫 How to reach me akinozcelik0@gmail.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
